@@ -1,0 +1,35 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <script> 
+      let nombre = 'Dani';
+      let cantidad = 42;
+      let esverdadero = true;
+      let esfalso = false;
+      let esnulo = null;
+      let persona = {nombre: 'Dani', edad: 30};
+
+      document.write(nombre);
+      document.write('<br>');
+      document.write(cantidad);
+      document.write('<br>');
+      document.write(esverdadero);
+      document.write('<br>');
+      document.write(esfalso);
+      document.write('<br>');
+      document.write(esnulo);
+      document.write('<br>');
+      document.write(persona.nombre);
+     
+    
+    </script>
+
+
+</body>
+</html>
